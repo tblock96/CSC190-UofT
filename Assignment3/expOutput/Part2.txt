@@ -1,0 +1,16 @@
+
+Simulated for 10000000s with Arrival Rate of 1 packets/sec and Service Rate of 10 packets/sec:
+Sojourn time is 0.105554 seconds
+
+Simulated for 10000000s with Arrival Rate of 5 packets/sec and Service Rate of 10 packets/sec:
+Sojourn time is 0.149956 seconds
+
+Simulated for 10000000s with Arrival Rate of 7 packets/sec and Service Rate of 10 packets/sec:
+Sojourn time is 0.216527 seconds
+
+Simulated for 10000000s with Arrival Rate of 9 packets/sec and Service Rate of 10 packets/sec:
+Sojourn time is 0.548064 seconds
+
+Simulated for 10000000s with Arrival Rate of 10 packets/sec and Service Rate of 10 packets/sec:
+Sojourn time is 819.938263 seconds
+
